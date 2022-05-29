@@ -5,7 +5,7 @@
     --gradient-90: linear-gradient(var(--gradient-direction), rgba(var(--gradient-primary), 0.9), rgba(var(--gradient-secondary), 0.9));
     --version: "Frosted Glass 2.0.13";
 }
-.colorDefault-CDqZdO{
+.colorDefault-CDqZdO.focused-3qFvc8{
     background-color: none;
     background:var(--gradient);
 }
