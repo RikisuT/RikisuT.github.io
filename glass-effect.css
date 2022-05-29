@@ -6,9 +6,6 @@ body,
 .membersWrap-3NUR2t {
     background-color: transparent;
 }
-.scroller-3X7KbA {
-    height: calc(100% - 124px) !important;
-}
 .scroller-3X7KbA::before {
     background: none !important;
     height: 124px;
