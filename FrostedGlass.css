@@ -22,7 +22,9 @@
     color: var(--text-normal);
     margin-top: 0;
 }
-
+.sidebar-1tnWFu .modeSelected-3DmyhH .avatar-1HDIsL svg, .sidebar-1tnWFu .modeSelected-3DmyhH .avatar-6qzftW svg, .sidebar-1tnWFu .modeSelected-3DmyhH .iconContainer-21RCa3 svg, .sidebar-1tnWFu .modeSelected-3DmyhH .iconItem-1EjiK0 svg, .sidebar-1tnWFu .interactiveSelected-29CP8y .avatar-1HDIsL svg, .sidebar-1tnWFu .interactiveSelected-29CP8y .avatar-6qzftW svg, .sidebar-1tnWFu .interactiveSelected-29CP8y .iconContainer-21RCa3 svg, .sidebar-1tnWFu .interactiveSelected-29CP8y .iconItem-1EjiK0 svg, .sidebar-1tnWFu .selectedCategoryItem-ZjqSui .avatar-1HDIsL svg, .sidebar-1tnWFu .selectedCategoryItem-ZjqSui .avatar-6qzftW svg, .sidebar-1tnWFu .selectedCategoryItem-ZjqSui .iconContainer-21RCa3 svg, .sidebar-1tnWFu .selectedCategoryItem-ZjqSui .iconItem-1EjiK0 svg {
+    color: white;
+}
 #app-mount .botTagInvert-18-95s {
     color: rgb(var(--gradient-primary));
 }
