@@ -2,7 +2,6 @@
 body,
 .app-2CXKsg,
 .scroller-3X7KbA,
-.wrapper-1_HaEi,
 .membersWrap-3NUR2t {
     background-color: transparent;
 }
@@ -10,7 +9,9 @@ body,
     top: -56px;
     opacity: var(--opacity-thing);
 }
-
+.wrapper-1_HaEi {
+    background-color: hsla(0, 0%, 0%, 0.48) !important;
+}
 .theme-dark .bg-1QIAus {
     background-color: #000;
 }
