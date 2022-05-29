@@ -6,11 +6,16 @@
     --version: "Frosted Glass 2.0.13";
 }
 .colorDefault-CDqZdO.focused-3qFvc8{
-    background-color: none;
+    background-color: none!important;
     background:var(--gradient);
 }
 .colorDefault-CDqZdO{
-    background-color: none;
+    background-color: none!important;
+}
+.lookFilled-yCfaCM {
+    color: #fff;
+    background: var(--gradient);
+    background-color: none !important;
 }
 #app-mount .botTagRegular-2HEhHi {
     background: var(--gradient);
