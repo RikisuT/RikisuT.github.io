@@ -4,6 +4,7 @@
     --gradient-50: linear-gradient(var(--gradient-direction), rgba(var(--gradient-primary), 0.5), rgba(var(--gradient-secondary), 0.5));
     --gradient-90: linear-gradient(var(--gradient-direction), rgba(var(--gradient-primary), 0.9), rgba(var(--gradient-secondary), 0.9));
     --version: "Frosted Glass 2.0.13";
+    --TB-tr-roundness : 10px;
 }
 .colorDefault-CDqZdO.focused-3qFvc8{
     background-color: none!important;
@@ -28,6 +29,17 @@
 .sidebar-1tnWFu {
     border-radius: 8px 0 0 8px;
 }
+.typeWindows-2-g3UY {
+    margin-bottom: -5px !important;
+    margin-top: 10px !important;
+    left: -.5% !important;
+}
+
+
+
+
+
+
 #app-mount .botTagInvert-18-95s {
     color: rgb(var(--gradient-primary));
 }
