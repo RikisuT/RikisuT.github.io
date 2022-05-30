@@ -76,7 +76,10 @@
 .scroller-hE2gWq {
     border-left: none !important;
 }
-
+.reaction-3vwAF2 {
+    background-color: #2d2d2dba;
+    border: none;
+}
 .item-2idW98[aria-checked=true] {
     box-shadow: 0 4px 9px rgba(0 0 0 / 0.2) !important;
 }
