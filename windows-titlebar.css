@@ -8,6 +8,7 @@
   left: -.5%;
   width: 100%;
   background: transparent;
+  margin-top: 10px !important;
 }
 .platform-win .winButtonClose-3Q8ZH5 {
   border-top-right-radius: var(--TB-tr-roundness);
