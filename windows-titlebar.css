@@ -39,3 +39,7 @@
 .platform-win #app-mount .typeWindows-2-g3UY::before {
   content: none !important;
 }
+.typeWindows-2-g3UY {
+    margin-top: 10px !important;
+    left: -.5% !important;
+}
