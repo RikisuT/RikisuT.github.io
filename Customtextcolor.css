@@ -1,6 +1,6 @@
 #app-mount .contents-2MsGLg .messageContent-2t3eCI {
-    background-color: rgb(128 128 128 / 15%);
+    background-color: #2d2f32;
 }
 #app-mount .message-2CShn3:hover:not(.replying-eZ7p5z):not(.mentioned-Tre-dv) .contents-2MsGLg .messageContent-2t3eCI, #app-mount .message-2CShn3.selected-2LX7Jy:not(.replying-eZ7p5z):not(.mentioned-Tre-dv) .contents-2MsGLg .messageContent-2t3eCI {
-    background-color: #9ea2a730;
+    background-color: #37393d;
 }
